@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pythoned77@gmail.com
+	name = Edward Ho
